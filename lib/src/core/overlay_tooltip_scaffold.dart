@@ -91,6 +91,7 @@ class OverlayTooltipScaffoldImplState
           )
         ],
       ),
+      resizeToAvoidBottomInset: false,
     );
   }
 }
